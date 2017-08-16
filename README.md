@@ -4,8 +4,7 @@ A simple repo for @rakyll's fantastic 'hey' tool: <https://github.com/rakyll/hey
 
 The best way to install is to simply [download go](https://golang.org/dl/), go get and add to path.
 
-I'm also cross-compiling some binaries on this repo to make it easier to download.
-
+I'm also cross-compiling some binaries which can be [downloaded from this repo](https://github.com/asw101/hey-binary/releases).
 ## go get
 
     go get -u github.com/rakyll/hey
